@@ -5,7 +5,7 @@
 #define _auto_version_included
 
 #define SOURCEMOD_V_TAG		""
-#define SOURCEMOD_V_CSET	"0b468f21"
+#define SOURCEMOD_V_CSET	"0b468f2"
 #define SOURCEMOD_V_MAJOR	1
 #define SOURCEMOD_V_MINOR	10
 #define SOURCEMOD_V_RELEASE	0
