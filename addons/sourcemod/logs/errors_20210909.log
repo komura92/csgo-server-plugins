@@ -1,0 +1,9 @@
+L 09/09/2021 - 18:18:13: SourceMod error session started
+L 09/09/2021 - 18:18:13: Info (map "de_mirage") (file "D:\csgoServer\csgo\addons\sourcemod\logs\errors_20210909.log")
+L 09/09/2021 - 18:18:13: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 09/09/2021 - 18:18:13: [SM] Blaming: practicemode.smx
+L 09/09/2021 - 18:18:13: [SM] Call stack trace:
+L 09/09/2021 - 18:18:13: [SM]   [1] Line 1584, ./scripting/practicemode.sp::CSU_OnThrowGrenade
+L 09/09/2021 - 18:18:13: [SM]   [3] Call_Finish
+L 09/09/2021 - 18:18:13: [SM]   [4] Line 334, ./scripting/csutils.sp::CaptureEntity
+L 09/09/2021 - 18:29:15: Error log file session closed.
